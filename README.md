@@ -1,0 +1,1 @@
+# intern-code-convention
